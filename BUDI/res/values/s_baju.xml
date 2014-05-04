@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="s_prov_baju_0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="s_prov_baju_1"></string>
+    <string name="s_prov_baju_2"></string>
+    <string name="s_prov_baju_3"></string>
+    <string name="s_prov_baju_4"></string>
+    <string name="s_prov_baju_5"></string>
+    <string name="s_prov_baju_6"></string>
+    <string name="s_prov_baju_7"></string>
+    <string name="s_prov_baju_8"></string>
+    <string name="s_prov_baju_9"></string>
+    <string name="s_prov_baju_10"></string>
+</resources>

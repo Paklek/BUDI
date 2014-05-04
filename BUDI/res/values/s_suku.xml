@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="s_prov_suku_0">Ada 8 suku yaitu :\n 1. Aceh\n 2. Gayo\n 3. Kluet\n 4. Alas\n 5. Tamiang\n 6. Aneuk Jamee\n 7. Simeulu\n 8. Jawa</string>
+    <string name="s_prov_suku_1">Ada 9 suku yaitu :\n 1. Melayu\n 2. Karo\n 3. Simalungun\n 4. Pakpak/Dairi\n 5. Batak Toba\n 6. Mandailing\n 7. Pesisir (Tapanuli Tengah)\n 8. Nias\n 9. Jawa</string>
+    <string name="s_prov_suku_2"></string>
+    <string name="s_prov_suku_3"></string>
+    <string name="s_prov_suku_4"></string>
+    <string name="s_prov_suku_5"></string>
+    <string name="s_prov_suku_6"></string>
+    <string name="s_prov_suku_7"></string>
+    <string name="s_prov_suku_8"></string>
+    <string name="s_prov_suku_9"></string>
+    <string name="s_prov_suku_10"></string>
+</resources>

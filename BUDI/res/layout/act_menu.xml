@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   android:background="@drawable/bottombatik"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/btn_tentang_budi"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btn_provinsi"
+        android:text="Tentang BUDI" />
+
+    <Button
+        android:id="@+id/btn_setting"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btn_tentang_budi"
+        android:text="Pengaturan" />
+
+    <Button
+        android:id="@+id/btn_keluar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Keluar Aplikasi"
+        android:layout_below="@+id/btn_setting" />
+
+    <Button
+        android:id="@+id/btn_provinsi"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="126dp"
+        android:text="Pilih Provinsi" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="51dp"
+        
+        android:background="@drawable/border"
+        android:text="CopyRight ADEK 2014"/>
+
+</RelativeLayout>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.adek.budi"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="11"    
+        android:targetSdkVersion="17" />
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppBaseTheme" >
+        
+<activity
+android:name="com.act.adek.budi.c_act_splash_adek" android:screenOrientation="portrait" >
+<intent-filter><action android:name="android.intent.action.MAIN" /><category android:name="android.intent.category.LAUNCHER" /></intent-filter>
+
+</activity>
+        
+<activity
+android:name="com.tab.adek.budi.c_tab_main" android:label="@string/app_name" android:screenOrientation="portrait">"
+<intent-filter><action android:name="com.tab.adek.budi.C_TAB_MAIN" /><category android:name="android.intent.category.DEFAULT" /></intent-filter>
+</activity>
+        
+<activity
+android:name="com.act.adek.budi.c_act_list_prov" android:label="@string/app_name" android:screenOrientation="portrait">"
+<intent-filter><action android:name="com.act.adek.budi.C_ACT_LIST_PROV" /><category android:name="android.intent.category.DEFAULT" /></intent-filter>
+</activity>
+        
+                    
+<activity  
+    android:name="com.act.adek.budi.c_act_splash_budi" android:screenOrientation="portrait">
+<intent-filter><action android:name="com.act.adek.budi.C_ACT_SPLASH_BUDI" /><category android:name="android.intent.category.DEFAULT" /></intent-filter>
+</activity>
+
+<activity  
+    android:name="com.act.adek.budi.c_act_menu" android:label="BUDI" android:screenOrientation="portrait">
+<intent-filter><action android:name="com.act.adek.budi.C_ACT_MENU" /><category android:name="android.intent.category.DEFAULT" /></intent-filter>
+</activity>
+
+<activity  
+    android:name="com.act.adek.budi.c_act_sett" android:label="BUDI" android:screenOrientation="portrait">
+<intent-filter><action android:name="com.act.adek.budi.C_ACT_SETT" /><category android:name="android.intent.category.DEFAULT" /></intent-filter>
+</activity>
+
+    </application>
+
+</manifest>
